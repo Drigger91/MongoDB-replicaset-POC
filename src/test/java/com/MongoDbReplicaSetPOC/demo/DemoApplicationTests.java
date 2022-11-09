@@ -1,4 +1,4 @@
-package com.mongoDbReplicaSetPOC.demo;
+package com.MongoDbReplicaSetPOC.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
